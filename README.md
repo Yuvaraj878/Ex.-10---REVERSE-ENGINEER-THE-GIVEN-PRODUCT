@@ -31,8 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![243181166-ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7](https://github.com/Yuvaraj878/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118622554/732a7bdc-2b7f-45ae-ae2c-fda249aa9e6b)
 
 ### Output:
+![243181171-d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3](https://github.com/Yuvaraj878/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118622554/d39a2dae-a6d0-4743-857b-af985d498706)
 
 
 ### Name: YUVARAJ.S
